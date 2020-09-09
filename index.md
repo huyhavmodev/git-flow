@@ -42,8 +42,10 @@
 
 - route-auth
 - route-user-management
+- route-posts
 - index
   - route-auth
   - route-user-management
+  - route-posts
 
 #other
