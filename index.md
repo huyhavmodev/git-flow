@@ -39,7 +39,9 @@
 7. routes
 
 - route-auth
+- route-user-management
 - index
   - route-auth
+  - route-user-management
 
 #other
