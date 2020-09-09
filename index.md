@@ -32,6 +32,7 @@
 - post
   - index
     - use styled
+- exe
 
 6. layouts
 
