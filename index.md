@@ -26,6 +26,10 @@
   - components
   - shared
   - index
+- user-management
+  - components
+  - shared
+  - index
 
 6. layouts
 
