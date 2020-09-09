@@ -4,6 +4,7 @@
 
 - com1
 - com2
+- styled
 
 2. configs
 
