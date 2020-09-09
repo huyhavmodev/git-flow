@@ -4,6 +4,7 @@
 
 - com1
 - com2
+- styled
 
 2. configs
 
@@ -25,6 +26,9 @@
   - components
   - shared
   - index
+- user-management
+  - index
+    - use styled
 
 6. layouts
 
@@ -34,7 +38,9 @@
 7. routes
 
 - route-auth
+- route-user-management
 - index
   - route-auth
+  - route-user-management
 
 #other
