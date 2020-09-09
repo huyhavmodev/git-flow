@@ -29,6 +29,9 @@
 - user-management
   - index
     - use styled
+- post
+  - index
+    - use styled
 
 6. layouts
 
