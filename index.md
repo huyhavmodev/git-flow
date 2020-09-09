@@ -27,9 +27,8 @@
   - shared
   - index
 - user-management
-  - components
-  - shared
   - index
+    - use styled
 
 6. layouts
 
