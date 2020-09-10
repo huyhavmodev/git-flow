@@ -1,6 +1,6 @@
 // just ui
 // update ui - api
 // fix ui
-// add more
+// add more - disable stag
 // add
-// something
+// something - disable stag
